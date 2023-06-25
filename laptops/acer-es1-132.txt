@@ -1,0 +1,7 @@
+- bliss os manual install
+- keep EFI partition intact with the preinstalled windows files, install to mmcblk0p2 formatted to ext4
+- install grub2
+- reboot from the installer medium and execute a shell
+- mount /dev/mmcblk0p1 /mnt
+- cp /mnt/EFI/Boot/Android/BOOTx64.EFI /mnt/EFI/Boot/Microsoft/bootfw.efi
+
