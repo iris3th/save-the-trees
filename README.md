@@ -1,8 +1,10 @@
 ## save-the-trees 
 
-#### The idea is to resurrect old hardware, upgrade if possible, and reinstall / reflash its OS to the newest version available - Mainly with linux / android, so this way old hardware will not end up in the landfill. 
+#### The idea is to resurrect old hardware, upgrade if possible, and reinstall / reflash it's OS to linux or android.
+
+The main intent is to save the environment and give away old hardware with new software. 
 
 This repository is to track what was done and what were the solutions. 
 
-Contributors welcome, Please only use tips / tricks from this repository with your own risk.
+Contributors welcome, Please only use tips / tricks from this repository at your own risk.
 
